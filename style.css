@@ -1,0 +1,41 @@
+body {
+            font-family: 'Times New Roman', serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f5f5dc; /* beige clair */
+            color: #000000/* Texte noir */
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h1, h2 {
+            color: #735394; /* Lilas foncé */
+            text-decoration: underline;
+        }
+
+        section {
+            margin-top: 20px;
+            background-color: #fff; /* Fond blanc pour chaque section */
+            padding: 20px;
+            border-radius: 10px; /* Coins arrondis */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.6); /* Légère ombre */
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        img {
+            max-width: 120px;
+            border-radius: 70%;
+            margin-top: 10px;
+        }
+    </style>
